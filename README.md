@@ -18,11 +18,8 @@ This repo was tested with Ubuntu 20.4 LTS, Python 3.6, PyTorch 1.6.0, and CUDA 1
 ## MTCNN installaion
 https://github.com/ipazc/mtcnn
 
-## Face image crop
-To construct a train/test dataset, use the 'face_crop.ipynb'.
-
 ## Train/test dataset construction
-To construct a train/test dataset, use the `train_test_list_construction.ipynb`.
+To construct a train/test dataset, use the `train_test_list_construction.ipynb`. And then use MTCNN to realize face image crop.
 
 ## Training
 To train a model, use the `starter_code.ipynb`.
