@@ -15,9 +15,16 @@ This repository contains the starter code for the "[딥페이크 변조 영상 �
 ## Installation
 This repo was tested with Ubuntu 20.4 LTS, Python 3.6, PyTorch 1.6.0, and CUDA 10.2.
 
-## Training
-To train a model, use the `main.py` script.
+## MTCNN installaion
 
-``` bash
-python main.py
-```
+## Face image crop
+To construct a train/test dataset, use the 'face_crop.ipynb'.
+
+## Train/test dataset construction
+To construct a train/test dataset, use the `train_test_list_construction.ipynb`.
+
+## Training
+To train a model, use the `starter_code.ipynb`.
+
+## Inference
+To train a model, use the `Inference code.ipynb`.
