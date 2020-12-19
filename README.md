@@ -1,5 +1,5 @@
 # Deepfake-Synthetic-Image-Detection
-Data-driven Security and Privacy final project - Deepfake Synthetic Image Detection-Dacon Contest
+Data-driven Security and Privacy final project - Deepfake Synthetic Image Detection - Dacon Contest.
 This project is from DACON competition platform. The related information is as following:
 
 # aihub_dfdc_challenge
@@ -16,6 +16,7 @@ This repository contains the starter code for the "[딥페이크 변조 영상 �
 This repo was tested with Ubuntu 20.4 LTS, Python 3.6, PyTorch 1.6.0, and CUDA 10.2.
 
 ## MTCNN installaion
+https://github.com/ipazc/mtcnn
 
 ## Face image crop
 To construct a train/test dataset, use the 'face_crop.ipynb'.
